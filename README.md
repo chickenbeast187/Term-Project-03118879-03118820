@@ -3,10 +3,10 @@ Big data management and information systems - Semester project
 
 First run these commands to setup packages:
 
-python3 -m venv .venv
-source .venv/bin/activate
-python -m pip install --upgrade pip
-pip install -r requirements.txt
+    python3 -m venv .venv
+    source .venv/bin/activate
+    python -m pip install --upgrade pip
+    pip install -r requirements.txt
 
 I.Classification
     a. Unsupervised methods
